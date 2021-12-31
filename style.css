@@ -29,7 +29,7 @@ div img{
     text-align: center;
 }
 
-.recipe-conent{
+.recipe-content{
     text-align: left;
     display: grid; 
     grid-template-columns: 2fr 0.1fr 1fr; 
