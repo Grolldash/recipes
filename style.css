@@ -30,7 +30,6 @@ div img{
 }
 
 .recipe-content{
-    text-align: left;
     display: grid; 
     grid-template-columns: 2fr 0.1fr 1fr; 
     grid-template-rows: 1fr 2fr 0.1fr; 
@@ -41,6 +40,6 @@ div img{
       ". . ."; 
   }
 
-/* .recipe-text{
-
-  } */
+ .recipe-text{
+text-align: left;
+  } 
